@@ -24,15 +24,15 @@ The (c_files/) directory contains introductory-level file operations in C progra
 
 ## dietel_and_c_exercises
 
-1)Arrays
+1) Arrays
 In the (dietel_and_c_exercises/array_exercises/) directory includes examples and exercises related to array manipulation, including multi-dimensional arrays and common operations like insertion, deletion, and traversal. 
 Additionally, it includes implementations methods for accessing elements via indices, and operations like merging two arrays.
 
-2)Dietel's Book
+2) Dietel's Book
 In the (dietel_and_c_exercises/deitel/) directory, you will find solutions to the end-of-chapter exercises from the "C: How to Program" book by Deitel. 
 Each solution is organized by chapter and includes both the problem statement and the solution code.
 
-3)Professor's Assignments and Personal Studies
+3) Professor's Assignments and Personal Studies
 In the (dietel_and_c_exercises/basic_exercises/) directory, contains the assignments given by my professor throughout the course. Each assignment includes the problem description, requirements, and my solution.
 Also i have included additional topics and programs that I have studied independently. This includes advanced topics, projects, and experimental code.
 
