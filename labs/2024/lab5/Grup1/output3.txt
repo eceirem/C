@@ -1,0 +1,25 @@
+Lütfen "birinci sınıf" için 1, "ekonomi" için 2 değerini giriniz: 
+Ekonomide koltuk atamanız 6.
+Lütfen "birinci sınıf" için 1, "ekonomi" için 2 değerini giriniz: 
+Ekonomide koltuk atamanız 7.
+Lütfen "birinci sınıf" için 1, "ekonomi" için 2 değerini giriniz: 
+Birinci sınıfta koltuk atamanız 1.
+Lütfen "birinci sınıf" için 1, "ekonomi" için 2 değerini giriniz: 
+Ekonomide koltuk atamanız 8.
+Lütfen "birinci sınıf" için 1, "ekonomi" için 2 değerini giriniz: 
+Ekonomide koltuk atamanız 9.
+Lütfen "birinci sınıf" için 1, "ekonomi" için 2 değerini giriniz: 
+Birinci sınıfta koltuk atamanız 2.
+Lütfen "birinci sınıf" için 1, "ekonomi" için 2 değerini giriniz: 
+Birinci sınıfta koltuk atamanız 3.
+Lütfen "birinci sınıf" için 1, "ekonomi" için 2 değerini giriniz: 
+Ekonomide koltuk atamanız 10.
+Lütfen "birinci sınıf" için 1, "ekonomi" için 2 değerini giriniz: 
+Ekonomi bölümü dolmuştur. Birinci sınıf bölümünde oturmak ister misiniz (Y veya N)?: 
+Sonraki uçuş 3 saat sonra kalkıyor.
+Lütfen "birinci sınıf" için 1, "ekonomi" için 2 değerini giriniz: 
+Ekonomi bölümü dolmuştur. Birinci sınıf bölümünde oturmak ister misiniz (Y veya N)?: 
+Birinci sınıfta koltuk atamanız 4.
+Lütfen "birinci sınıf" için 1, "ekonomi" için 2 değerini giriniz: 
+Birinci sınıfta koltuk atamanız 5.
+Bu uçuşa ait tüm koltuklar dolmuştur.

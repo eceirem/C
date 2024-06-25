@@ -1,0 +1,3 @@
+This program determines the length of each word
+in the input text. The input text here has words
+of several different lengths.

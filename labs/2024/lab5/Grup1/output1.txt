@@ -1,0 +1,21 @@
+Lütfen "birinci sınıf" için 1, "ekonomi" için 2 değerini giriniz: 
+Birinci sınıfta koltuk atamanız 1.
+Lütfen "birinci sınıf" için 1, "ekonomi" için 2 değerini giriniz: 
+Ekonomide koltuk atamanız 6.
+Lütfen "birinci sınıf" için 1, "ekonomi" için 2 değerini giriniz: 
+Birinci sınıfta koltuk atamanız 2.
+Lütfen "birinci sınıf" için 1, "ekonomi" için 2 değerini giriniz: 
+Ekonomide koltuk atamanız 7.
+Lütfen "birinci sınıf" için 1, "ekonomi" için 2 değerini giriniz: 
+Birinci sınıfta koltuk atamanız 3.
+Lütfen "birinci sınıf" için 1, "ekonomi" için 2 değerini giriniz: 
+Ekonomide koltuk atamanız 8.
+Lütfen "birinci sınıf" için 1, "ekonomi" için 2 değerini giriniz: 
+Birinci sınıfta koltuk atamanız 4.
+Lütfen "birinci sınıf" için 1, "ekonomi" için 2 değerini giriniz: 
+Ekonomide koltuk atamanız 9.
+Lütfen "birinci sınıf" için 1, "ekonomi" için 2 değerini giriniz: 
+Birinci sınıfta koltuk atamanız 5.
+Lütfen "birinci sınıf" için 1, "ekonomi" için 2 değerini giriniz: 
+Ekonomide koltuk atamanız 10.
+Bu uçuşa ait tüm koltuklar dolmuştur.

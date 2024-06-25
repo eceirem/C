@@ -1,0 +1,9 @@
+Bir işlem seçin:
+1. Üçgenin Alanını Hesapla
+2. Permütasyon Hesapla
+3. Kombinasyon Hesapla
+Girilen seçim: 2
+Permütasyon için n ve r değerlerini girin:
+
+Girilen n ve r değeri: 5, 3
+Permütasyon P(5, 3) = 60

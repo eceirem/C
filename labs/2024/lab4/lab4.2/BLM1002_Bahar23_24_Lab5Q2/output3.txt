@@ -1,0 +1,9 @@
+Bir işlem seçin:
+1. Üçgenin Alanını Hesapla
+2. Permütasyon Hesapla
+3. Kombinasyon Hesapla
+Girilen seçim: 3
+Kombinasyon için n ve r değerlerini girin:
+
+Girilen n ve r değeri: 5, 3
+Kombinasyon C(5, 3) = 10

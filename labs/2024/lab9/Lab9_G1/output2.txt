@@ -1,0 +1,26 @@
+2 kelimenin uzunlugu 2
+4 kelimenin uzunlugu 3
+2 kelimenin uzunlugu 4
+7 kelimenin uzunlugu 5
+2 kelimenin uzunlugu 6
+1 kelimenin uzunlugu 9
+
+Kelimelerin alfabetik sirali listesi:
+"Bugun"
+"Bugun"
+"bence"
+"bir"
+"bu"
+"bugun"
+"cok"
+"cok"
+"cok"
+"guzel"
+"guzel"
+"hava"
+"hava"
+"havada"
+"seyler"
+"ve"
+"yapilmali"
+"yarin"

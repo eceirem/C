@@ -1,0 +1,10 @@
+Vezirlerin yerleştirildiği tahta:
+- Q - - - - - - 
+- - - - - Q - - 
+- - - - - - - Q 
+- - - - Q - - - 
+Q - - - - - - - 
+- - Q - - - - - 
+- - - - - - Q - 
+- - - Q - - - - 
+Vezir konumları sekiz vezir problemine uygun değil

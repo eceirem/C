@@ -1,0 +1,9 @@
+Bir işlem seçin:
+1. İki nokta arasındaki uzaklığı hesapla
+2. Bir sayının tersini bul
+Girilen secim: 1
+x1 ve y1 için koordinatları girin: 
+Girilen x1 ve y1 değeri: 1.20, 5.40
+x2 ve y2 için koordinatları girin: 
+Girilen x2 ve y2 değeri: 8.90, 3.40
+Noktalarınız arasındaki uzaklık: 7.96

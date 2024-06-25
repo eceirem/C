@@ -1,0 +1,6 @@
+Bir işlem seçin:
+1. Üçgenin Alanını Hesapla
+2. Permütasyon Hesapla
+3. Kombinasyon Hesapla
+Girilen seçim: 8
+Geçersiz seçim!

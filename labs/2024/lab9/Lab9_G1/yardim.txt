@@ -1,0 +1,13 @@
+char *strtok(char *str, const char *delims);
+
+bu fonksiyon string verilen ayrıcılara(*delims) göre parçalara ayırır.
+
+
+strcmp(first_str, second_str );
+
+bu fonksiyon iki string'i birbiri ile karşılaştırır. Eğer string'ler eşitse 0 döner.
+
+
+char* strcpy(char* destination, const char* source);
+
+bu fonksiyon kopyalama işlemine yarar. source kısmında yer alan string'i destination içerisine kopyalar.

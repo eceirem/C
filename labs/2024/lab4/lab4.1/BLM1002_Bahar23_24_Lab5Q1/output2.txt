@@ -1,0 +1,7 @@
+Bir işlem seçin:
+1. İki nokta arasındaki uzaklığı hesapla
+2. Bir sayının tersini bul
+Girilen secim: 2
+Tersini bulmak istediğiniz sayıyı girin: Girilen sayı: 564897
+Tersine çevrilmiş sayı: 798465
+Tersine çevrilmiş sayının 2 katı: 1596930

@@ -1,0 +1,13 @@
+Bir işlem seçin:
+1. Üçgenin Alanını Hesapla
+2. Permütasyon Hesapla
+3. Kombinasyon Hesapla
+Girilen seçim: 1
+Üçgenin koordinatlarını girin:
+Nokta 1 (x1, y1): 
+Girilen x1 ve y1 değeri: 0.10, 2.50
+Nokta 2 (x2, y2): 
+Girilen x2 ve y2 değeri: 3.50, 6.10
+Nokta 3 (x3, y3): 
+Girilen x3 ve y3 değeri: 8.20, 6.50
+Üçgenin alanı: 7.78

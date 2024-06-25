@@ -1,0 +1,10 @@
+Şövalyelerin yerleştirildiği tahta:
+- K - - - - - - 
+- - - - K - - - 
+- K - - - - - - 
+- - - - - - K - 
+- - - - - - - K 
+- - K - - - - - 
+- - - K - - - - 
+- - - - - - K - 
+Tebrikler! Şövalye konumları sekiz şövalye problemine uygun

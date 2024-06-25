@@ -1,0 +1,35 @@
+Lütfen "tekli koltuk" için 1, "ikili koltuk" için 2 değerini giriniz: 
+İkili koltuklarda atamanız 2.
+Lütfen "tekli koltuk" için 1, "ikili koltuk" için 2 değerini giriniz: 
+İkili koltuklarda atamanız 3.
+Lütfen "tekli koltuk" için 1, "ikili koltuk" için 2 değerini giriniz: 
+Tekli koltuklarda atamanız 1.
+Lütfen "tekli koltuk" için 1, "ikili koltuk" için 2 değerini giriniz: 
+Tekli koltuklarda atamanız 4.
+Lütfen "tekli koltuk" için 1, "ikili koltuk" için 2 değerini giriniz: 
+İkili koltuklarda atamanız 5.
+Lütfen "tekli koltuk" için 1, "ikili koltuk" için 2 değerini giriniz: 
+İkili koltuklarda atamanız 6.
+Lütfen "tekli koltuk" için 1, "ikili koltuk" için 2 değerini giriniz: 
+İkili koltuklarda atamanız 8.
+Lütfen "tekli koltuk" için 1, "ikili koltuk" için 2 değerini giriniz: 
+Tekli koltuklarda atamanız 7.
+Lütfen "tekli koltuk" için 1, "ikili koltuk" için 2 değerini giriniz: 
+Tekli koltuklarda atamanız 10.
+Lütfen "tekli koltuk" için 1, "ikili koltuk" için 2 değerini giriniz: 
+İkili koltuklarda atamanız 9.
+Lütfen "tekli koltuk" için 1, "ikili koltuk" için 2 değerini giriniz: 
+İkili koltuklarda atamanız 11.
+Lütfen "tekli koltuk" için 1, "ikili koltuk" için 2 değerini giriniz: 
+Tekli koltuklarda atamanız 13.
+Lütfen "tekli koltuk" için 1, "ikili koltuk" için 2 değerini giriniz: 
+İkili koltuklarda atamanız 12.
+Lütfen "tekli koltuk" için 1, "ikili koltuk" için 2 değerini giriniz: 
+İkili koltuklarda atamanız 14.
+Lütfen "tekli koltuk" için 1, "ikili koltuk" için 2 değerini giriniz: 
+Tekli koltuk bölümü dolmuştur. İkili koltuk bölümünde oturmak ister misiniz (Y veya N)?: 
+Sonraki sefer 3 saat sonra kalkıyor.
+Lütfen "tekli koltuk" için 1, "ikili koltuk" için 2 değerini giriniz: 
+Tekli koltuk bölümü dolmuştur. İkili koltuk bölümünde oturmak ister misiniz (Y veya N)?: 
+İkili koltuklarda atamanız 15.
+Bu otobüse ait tüm koltuklar dolmuştur.

@@ -1,0 +1,32 @@
+3 kelimenin uzunlugu 2
+4 kelimenin uzunlugu 3
+6 kelimenin uzunlugu 4
+3 kelimenin uzunlugu 5
+1 kelimenin uzunlugu 6
+3 kelimenin uzunlugu 7
+1 kelimenin uzunlugu 9
+1 kelimenin uzunlugu 10
+
+Kelimelerin alfabetik sirali listesi:
+"The"
+"This"
+"determines"
+"different"
+"each"
+"has"
+"here"
+"in"
+"input"
+"input"
+"length"
+"lengths"
+"of"
+"of"
+"program"
+"several"
+"text"
+"text"
+"the"
+"the"
+"word"
+"words"
