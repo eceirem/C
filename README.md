@@ -6,12 +6,12 @@ exercises from the "C: How to Program" book by Deitel, assignments given by my p
 
 ## Table of Contents
 
-- [Introduction]
-- [algorithms]
-- [dietel_and_c_exercises]
-- [c_files]
-- [labs]
-- [Conclusion]
+- [Introduction](#introduction)
+- [Algorithms](#algorithms)
+- [Dietel and C Exercises](#dietel_and_c_exercises)
+- [C Files](#c_files)
+- [Labs](#labs)
+- [Conclusion](#conclusion)
 
 ## Introduction
 This repository serves as a comprehensive resource for learning and practicing C programming. It includes various topics covered in my university and additional materials for self-study.
