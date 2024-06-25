@@ -32,7 +32,7 @@ Additionally, it includes implementations methods for accessing elements via ind
 In the (dietel_and_c_exercises/deitel/) directory, you will find solutions to the end-of-chapter exercises from the "C: How to Program" book by Deitel. 
 Each solution is organized by chapter and includes both the problem statement and the solution code.
 
-3) Professor's Assignments and Personal Studies
+3)Professor's Assignments and Personal Studies
 In the (dietel_and_c_exercises/basic_exercises/) directory, contains the assignments given by my professor throughout the course. Each assignment includes the problem description, requirements, and my solution.
 Also i have included additional topics and programs that I have studied independently. This includes advanced topics, projects, and experimental code.
 
