@@ -1,4 +1,4 @@
-# C Programming Repository
+# C Repository Overview
 
 Welcome to my C Programming Repository! 
 This repository contains all the materials related to my school's curriculum, including algorithms, arrays, 
