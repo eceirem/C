@@ -42,8 +42,7 @@ Also i have included additional topics and programs that I have studied independ
 
 ## labs
 The (labs/) directory contains lab exercises that I completed during my course in 2023, along with solutions I developed for lower grades in 2024. Additionally, I have created Turkish-language tutorial videos explaining these lab solutions and subject topics.
-Here is the link:
-https://youtube.com/playlist?list=PLjBIWfe1orZE0N3eBSlEwtWXItKTxpPcT&si=bjMTha7BvaXkX4e5
+Here is the [Link](https://youtube.com/playlist?list=PLjBIWfe1orZE0N3eBSlEwtWXItKTxpPcT&si=bjMTha7BvaXkX4e5).
 
 ## Conclusion
 
